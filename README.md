@@ -20,5 +20,9 @@ A RESTful API for managing inventory, allowing users to add, update, delete, and
 - **PUT /api/products/[id]** - Update product quantity
 - **DELETE /api/products/[id]** - Delete a product
 
-## Testing
-Run tests with: `npm run test`.
+## Tech stack
+
+1. Next.Js 15
+2. TypeScript
+
+
